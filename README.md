@@ -1,2 +1,4 @@
 # MOVIE-TICKET-BOOKING-WEBSITE
-ebsite where customers can acknowledge movie schedules and book tickets for their favorite movies. Additionally, the manager can adjust information related to the website such as films, movie schedules, tickets,... 
+This is a clone version of the project that belongs to the Web programming course
+
+
